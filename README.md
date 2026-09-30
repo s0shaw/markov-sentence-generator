@@ -104,6 +104,13 @@ OK
 ```
 
 ---
+## Contribution
+
+Contributions are welcome!
+
+If you have an idea for improving the project, want to teach me something interesting, or have a different approach you'd like to try, feel free to fork the repository and experiment with it.
+
+Whether it's a new feature, an optimization, a different Markov Chain approach, or simply something interesting you'd like to teach me, I'd be happy to see it.
 
 ## License
 
